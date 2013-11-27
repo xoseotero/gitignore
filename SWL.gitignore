@@ -1,0 +1,5 @@
+# Preprocessed source code
+*.swe
+
+# Assembled binaries
+*.swo
